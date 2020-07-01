@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Custom</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Custom Blinds</string>
+    <string name="nav_header_email">duncan.customblinds@gmail.com</string>
+    <string name="nav_header_phone">+27 79 523 5407</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button1_text">ALUMINIUM VENETIANS</string>
+    <string name="button2_text">WOOD \&amp; SYNTHETIC VENETIANS</string>
+    <string name="button3_text">PANEL BLINDS</string>
+    <string name="button4_text">ROLLER BLINDS</string>
+    <string name="button5_text">VERTICAL BLINDS</string>
+    <string name="button6_text">DUETTE HONEYCOMBE BLINDS</string>
+    <string name="button7_text">DOUBLE ROLLER BLINDS</string>
+    <string name="button8_text">DROP DOWN BLINDS</string>
+
+    <string name="button2_1_text">WEDGE AWNINGS</string>
+    <string name="button2_2_text">RETRACTABLE PATIO SHADE AWNINGS</string>
+    <string name="button2_3_text">RETRACTABLE FOLDING ARM AWNINGS</string>
+    <string name="button2_4_text">ALUMINIUM LOUVERED AWNINGS</string>
+
+    <string name="button3_1_text">CRAFTWOOD SHUTTERS</string>
+    <string name="button3_2_text">BASSWOOD SHUTTERS</string>
+    <string name="button3_3_text">PHOENIXWOOD SHUTTERS</string>
+    <string name="button3_4_text">ALUMINIUM SHUTTERS</string>
+    <string name="button3_5_text">ARTWOOD SHUTTERS</string>
+
+    <string name="button4_1_text">SHADE PORTS</string>
+    <string name="button4_2_text">SHADE PORTS</string>
+    <string name="button4_3_text">SHADE PORTS</string>
+
+    <string name="description1_1">Are the perfect blinds for creating a modern and uncluttered  look in your home. the versatility of Venetians makes the simple to use.</string>
+    <string name="description1_2">Synthetic blinds are ideal for high humidity, extreme temperatures and direct sunlight.</string>
+    <string name="description1_3">The perfect solution for sliding doors and large windows. Simplicity of use. Sleek and elegant. Panel sizes range from 450mm to 1200mm. Both side and center opening available. Available in most bamboo and roller fabrics.</string>
+    <string name="description1_4">Percolate your light with simple fabric roller blinds that are neat, functional, practical and low maintenance. Fabric and patterned roller blinds provide an uncluttered windows treatment that is more economical than curtains.</string>
+    <string name="description1_5">Fabric vertical blinds provide a decorative and effective method in which to control light while still maintaining a perfect view from your home or office. </string>
+    <string name="description1_6">The shade’s built-in insulating characteristics help keep the heat out in summer and the warmth in during winter. Highly versatile, Duette blinds are soft,durable, and highly energy efficient.</string>
+    <string name="description1_7">Double roller blinds are two blinds enclosed together in a neat cassette system. The blinds are controlled separately to customise your widow light. These blinds are ideal for light filtering, shading and also for total sun block.</string>
+    <string name="description1_8">Double roller blinds are two blinds enclosed together in a neat cassette system. The blinds are controlled separately to customise your widow light. These blinds are ideal for light filtering, shading and also for total sun block.</string>
+    <string name="description2_1">The ideal way to cover a door or window and allows protection from sun and rain.</string>
+    <string name="description2_2">Patio shade awnings are suspended on trolleys which run on tracks attached to the beams of a Pergola which folds away neatly.</string>
+    <string name="description2_3">Folding arm awnings serve to extend your living space. They enhance the exterior of your home.</string>
+    <string name="description2_4">Aluminium louvred awnings have louvre panels that can be opened and closed to suit all types of weather, giving you extended outdoor living all year round.</string>
+    <string name="description3_1">A Synthetic product manufactured from a combination of timber fibres and glue and is dimensionally very stable. it is extruded in conjuction with a polypropene coating to give a smooth, even finish.</string>
+    <string name="description3_2">Classed as hardwood and is naturally a medium density timber giving a good resistance to knocks and bumps. Cl</string>
+    <string name="description3_3">Classed as hardwood and is naturally a medium density timber giving a good resistance to knocks and bumps.Cl</string>
+    <string name="description3_4">Excellent alternative to enhance your home with as an external feature, offer protect from corrosion harsh environments and at the same time solar and wind protection. This product and also serve and a partial security solution.</string>
+    <string name="description3_5">Made using a timber core and is encased in a synthetic product called ABS (Acrylonitrile butadiene styrene) and is useful for moisture areas. AS this is a type of plastic, it is not susceptible to any movement as timber can be. Warping is not an issue.</string>
+    <string name="description4_1">To enhance your driveway giving protection to your vehicles- boats and caravans from direct sunlight and rain.</string>
+    <string name="description4_2">To enhance your driveway giving protection to your vehicles- boats and caravans from direct sunlight and rain.</string>
+    <string name="description4_3">To enhance your driveway giving protection to your vehicles- boats and caravans from direct sunlight and rain.</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_menu1">BLINDS</string>
+    <string name="menu_menu2">AWNWINGS</string>
+    <string name="menu_menu3">SHUTTERS</string>
+    <string name="menu_menu4">SHADE PORTS</string>
+    <string name="menu_aboutus">About Us</string>
+
+    <string name="about_us">ADDITIONAL CONTACT DETAILS\n
+\n
+duncan.customblinds@gmail.com\n
+\n
+http://customblindsknysna.co.za\n
+\n
++27 79 523 5407\n
+MORE INFO\n
+\n
+About\n
+
+Custom Blinds - Suppliers of high quality indoor &amp; outdoor Blinds &amp; Awnings. In-house Canvas factory.\n
+Venetian Blinds | Roller Blinds | Outdoor Drop Down Blinds | Folding Arm Awnings | Double Roller Blinds | Shutters\n
+categories\n
+Interior design studio · Awning supplier · Business service</string>
+    <string name="home_second">Home Second</string>
+</resources>
